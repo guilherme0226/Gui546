@@ -4,17 +4,15 @@
 
 let idadeUser = prompt("Digite sua idade");
 let estadoUser = prompt("Digite seu estado:").toUpperCase();
+
 if (idadeUser >=18 && estadoUser === "PR") {
-    document.getElementById("lascou").innerText = "hora de dar tchau!";
-    document.getElementById("").innerText = "";
-    document.getElementById("").innerText = "";
+    document.getElementById1("lascou").innerText = "voce esta apto a iniciar!";
+    document.getElementById2("Vish").innerText = "Parabens";
+    document.getElementById3("Correr").innerText = "Vá até o Detran mais próximo";
+    document.getElementById4("carro").src ="https://static.vecteezy.com/ti/fotos-gratis/p2/47267148-gato-sorridente-mostrando-dentes-felino-retrato-foto.jpg";
 } else {
-    document.getElementById("lascou").innerText = "Acertou Miseravíi!";
-    document.getElementById("Voce ganhou meu chapa").innerText = "";
-    document.getElementById(" Gol do corintians ").innerText = "";
+    document.getElementById5("Desculpe").innerText = "!";
+    document.getElementById6("").innerText = "";
+    document.getElementById7("Error ").innerText = "!";
+    document.getElementById("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtpFuIFOXJxSR3b6P8vX5lEPjf7x-LDzH8g&s").src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtpFuIFOXJxSR3b6P8vX5lEPjf7x-LDzH8g&s";
 }
-   
-
-
-
-
