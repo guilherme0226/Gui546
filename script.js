@@ -14,5 +14,6 @@ if (idadeUser >=18 && estadoUser === "PR") {
     document.getElementById5("Desculpe").innerText = "!";
     document.getElementById6("").innerText = "";
     document.getElementById7("Error ").innerText = "!";
-    document.getElementById("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtpFuIFOXJxSR3b6P8vX5lEPjf7x-LDzH8g&s").src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtpFuIFOXJxSR3b6P8vX5lEPjf7x-LDzH8g&s";
+    document.getElementById("carro").src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtpFuIFOXJxSR3b6P8vX5lEPjf7x-LDzH8g&s";
 }
+
